@@ -1,3 +1,3 @@
 # website
 website
-cool webpage designed in bootstrap
+read the cool webpage designed in bootstrap
